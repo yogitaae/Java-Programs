@@ -1,4 +1,5 @@
-//Recursive Method
+// How can you find the factorial of an integer in Java?
+// Recursive Method
 
 package assignment_programs;
 import java.util.Scanner;
